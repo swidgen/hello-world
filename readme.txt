@@ -1,0 +1,1 @@
+this is a sample for the git-it parctice exercises
